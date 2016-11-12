@@ -1,0 +1,22 @@
+img{
+  height: 150px;
+  width: 150px;
+}
+/*button{
+  border-radius: 50px;
+}*/
+label{
+  color: red;
+  font-size: 1.5em;
+  font-family: cursive;
+}
+.img-cont{
+  display: inline;
+}
+.cont{
+  width: 700px;
+  height: 700px;
+  display: inline-block;
+  margin: auto;
+
+}
